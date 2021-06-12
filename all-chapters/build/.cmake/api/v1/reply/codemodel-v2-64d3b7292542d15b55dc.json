@@ -1,0 +1,140 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "datamember",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "constdest::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-constdest-Debug-ffd9316be8e2c741975b.json",
+					"name" : "constdest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "construct::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-construct-Debug-182d917ff2e7e9b20a41.json",
+					"name" : "construct",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "datamember::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-datamember-Debug-de1fb29a380b88663a9d.json",
+					"name" : "datamember",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "datmemberclass::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-datmemberclass-Debug-3c94623e5e2305ad1781.json",
+					"name" : "datmemberclass",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "functionmember::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-functionmember-Debug-0736e6f84d2730f176f1.json",
+					"name" : "functionmember",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "impexp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-impexp-Debug-20718aaca215e8e7e301.json",
+					"name" : "impexp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "namespace::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-namespace-Debug-117f9119c6c0310948cc.json",
+					"name" : "namespace",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "overloading::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-overloading-Debug-1e32b1367deb45be2628.json",
+					"name" : "overloading",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "selfref::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-selfref-Debug-8da118eac5a74268f052.json",
+					"name" : "selfref",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "thisuse::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-thisuse-Debug-bf3ea9d56c4ed194164c.json",
+					"name" : "thisuse",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/siddharth/Documents/learn/linkdin/advancedcpp/data-members/build",
+		"source" : "/home/siddharth/Documents/learn/linkdin/advancedcpp/data-members"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

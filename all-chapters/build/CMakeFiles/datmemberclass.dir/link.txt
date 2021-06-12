@@ -1,0 +1,1 @@
+/bin/x86_64-linux-gnu-g++-10  -g   CMakeFiles/datmemberclass.dir/data-members-class.cpp.o  -o datmemberclass 

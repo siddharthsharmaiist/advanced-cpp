@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/siddharth/Documents/learn/linkdin/advancedcpp/data-members/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10    -g   -o CMakeFiles/thisuse.dir/thisusage.cpp.o -c /home/siddharth/Documents/learn/linkdin/advancedcpp/data-members/thisusage.cpp",
+  "file": "/home/siddharth/Documents/learn/linkdin/advancedcpp/data-members/thisusage.cpp"
+},
+{
+  "directory": "/home/siddharth/Documents/learn/linkdin/advancedcpp/data-members/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10    -g   -o CMakeFiles/selfref.dir/self-reference.cpp.o -c /home/siddharth/Documents/learn/linkdin/advancedcpp/data-members/self-reference.cpp",
+  "file": "/home/siddharth/Documents/learn/linkdin/advancedcpp/data-members/self-reference.cpp"
+},
+{
+  "directory": "/home/siddharth/Documents/learn/linkdin/advancedcpp/data-members/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10    -g   -o CMakeFiles/namespace.dir/namespaces.cpp.o -c /home/siddharth/Documents/learn/linkdin/advancedcpp/data-members/namespaces.cpp",
+  "file": "/home/siddharth/Documents/learn/linkdin/advancedcpp/data-members/namespaces.cpp"
+},
+{
+  "directory": "/home/siddharth/Documents/learn/linkdin/advancedcpp/data-members/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10    -g   -o CMakeFiles/construct.dir/constructors.cpp.o -c /home/siddharth/Documents/learn/linkdin/advancedcpp/data-members/constructors.cpp",
+  "file": "/home/siddharth/Documents/learn/linkdin/advancedcpp/data-members/constructors.cpp"
+},
+{
+  "directory": "/home/siddharth/Documents/learn/linkdin/advancedcpp/data-members/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10    -g   -o CMakeFiles/overloading.dir/overloading.cpp.o -c /home/siddharth/Documents/learn/linkdin/advancedcpp/data-members/overloading.cpp",
+  "file": "/home/siddharth/Documents/learn/linkdin/advancedcpp/data-members/overloading.cpp"
+},
+{
+  "directory": "/home/siddharth/Documents/learn/linkdin/advancedcpp/data-members/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10    -g   -o CMakeFiles/constdest.dir/constructor-destructor.cpp.o -c /home/siddharth/Documents/learn/linkdin/advancedcpp/data-members/constructor-destructor.cpp",
+  "file": "/home/siddharth/Documents/learn/linkdin/advancedcpp/data-members/constructor-destructor.cpp"
+},
+{
+  "directory": "/home/siddharth/Documents/learn/linkdin/advancedcpp/data-members/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10    -g   -o CMakeFiles/functionmember.dir/function-member.cpp.o -c /home/siddharth/Documents/learn/linkdin/advancedcpp/data-members/function-member.cpp",
+  "file": "/home/siddharth/Documents/learn/linkdin/advancedcpp/data-members/function-member.cpp"
+},
+{
+  "directory": "/home/siddharth/Documents/learn/linkdin/advancedcpp/data-members/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10    -g   -o CMakeFiles/impexp.dir/implicit-explicit.cpp.o -c /home/siddharth/Documents/learn/linkdin/advancedcpp/data-members/implicit-explicit.cpp",
+  "file": "/home/siddharth/Documents/learn/linkdin/advancedcpp/data-members/implicit-explicit.cpp"
+},
+{
+  "directory": "/home/siddharth/Documents/learn/linkdin/advancedcpp/data-members/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10    -g   -o CMakeFiles/datmemberclass.dir/data-members-class.cpp.o -c /home/siddharth/Documents/learn/linkdin/advancedcpp/data-members/data-members-class.cpp",
+  "file": "/home/siddharth/Documents/learn/linkdin/advancedcpp/data-members/data-members-class.cpp"
+},
+{
+  "directory": "/home/siddharth/Documents/learn/linkdin/advancedcpp/data-members/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10    -g   -o CMakeFiles/datamember.dir/data-members.cpp.o -c /home/siddharth/Documents/learn/linkdin/advancedcpp/data-members/data-members.cpp",
+  "file": "/home/siddharth/Documents/learn/linkdin/advancedcpp/data-members/data-members.cpp"
+}
+]
